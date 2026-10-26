@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "06Pressable",
+    "slug": "06pressable",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pressable06",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}

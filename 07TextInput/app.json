@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "07 TextInput",
+    "slug": "07-text-input",
+    "scheme": "textinput07",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
